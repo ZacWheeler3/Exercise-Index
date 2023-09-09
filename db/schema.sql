@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS bezy_db;
+
+CREATE DATABASE bezy_db;
